@@ -5,10 +5,16 @@
     "version": "0.0.2",
     "keywords": [],
     "dependencies": {},
-    "development": {},
+    "devDependencies": {
+        "mocha": "*",
+        "should": "*"
+    },
     "license": "MIT",
-    "main": "index.js",
     "scripts": [
-       "index.js"
-    ]
+        "index.js"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/llinares/angle-convert"
+    }
 }

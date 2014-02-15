@@ -11,16 +11,20 @@
 
 ## API
 
+```js
+var angle = require('angle-convert');
+```
+
 ### degToRad(deg)
 
 ```js
-degToRad(128.34); // Returns 2.2399555620095226
+angle.degToRad(1); // 0.017453292519943295
 ```
 
 ### radToDeg(rad)
 
 ```js
-radToDeg(2.24); // Returns 128.3425461093044
+angle.radToDeg(1); // 57.29577951308232
 ```
 
 ## License
