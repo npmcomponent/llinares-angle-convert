@@ -1,20 +1,9 @@
 {
-    "name": "angle-convert",
-    "repo": "llinares/angle-convert",
-    "description": "Convert radians to degrees and back",
-    "version": "0.0.2",
-    "keywords": [],
-    "dependencies": {},
-    "devDependencies": {
-        "mocha": "*",
-        "should": "*"
-    },
-    "license": "MIT",
-    "scripts": [
-        "index.js"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/llinares/angle-convert"
-    }
+  "name": "llinares-angle-convert",
+  "description": "Convert radians to degrees and back",
+  "version": "0.0.2",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
 }
